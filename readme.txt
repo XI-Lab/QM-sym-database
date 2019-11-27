@@ -17,7 +17,7 @@ Line	                                 Content
 
 example:
 number of atoms
-Symmetry Group | Band Gap (eV) | LUMO (eV) | HOMO (eV) | Rotationl Constant (GHz) 1| 2 | 3 | Dipole Moment (D) x | y | z | total | Isotropic Polarizability (a0^3) | Electronic Spatial Extent (au) | Zero-point Vibrational energy (J/mol) | (Kcal/mol) | Sum of electronic and zero-point energies (Ha) | Sum of electronic and thermal energies (Ha) | Sum of electronic and thermal enthalpies (Ha) | Sum of electronic and thermal free energies (Ha) | Heat Capacity (J*K^-1) | Dengeneracy of orbitals -5 | -4 | -3 | -2 | -1 | HOMO | LUMO | +1 | +2 | +3 | +4 | +5 | Symmetry of orbitals -5 | -4 | -3 | -2 | -1 | HOMO | LUMO | +1 | +2 | +3 | +4 | +5 | Indication of subgroups and atoms
+Symmetry Group | Band Gap (Ha) | LUMO (Ha) | HOMO (Ha) | Rotationl Constant (GHz) 1| 2 | 3 | Dipole Moment (D) x | y | z | total | Isotropic Polarizability (a0^3) | Electronic Spatial Extent (au) | Zero-point Vibrational energy (J/mol) | (Kcal/mol) | Sum of electronic and zero-point energies (Ha) | Sum of electronic and thermal energies (Ha) | Sum of electronic and thermal enthalpies (Ha) | Sum of electronic and thermal free energies (Ha) | Heat Capacity (J*K^-1) | Dengeneracy of orbitals -5 | -4 | -3 | -2 | -1 | HOMO | LUMO | +1 | +2 | +3 | +4 | +5 | Symmetry of orbitals -5 | -4 | -3 | -2 | -1 | HOMO | LUMO | +1 | +2 | +3 | +4 | +5 | Indication of subgroups and atoms
 atom    x    y    z    mullikan_charge
 ......
 ......
